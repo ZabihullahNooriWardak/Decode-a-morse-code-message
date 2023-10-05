@@ -136,6 +136,6 @@ I would like to thank Microverse and my family for their support.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](MIT.md).
+This project is [MIT](https://github.com/ZabihullahNooriWardak/Decode-a-morse-code-message/blob/feature/LICENSE).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
