@@ -8,7 +8,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
   - [Setup](#setup)
   - [👥 Authors ](#-authors-)
@@ -53,12 +52,6 @@ The project is built using the following technologies:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Unfortunately, there is no live demo available for this project at the moment.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -89,7 +82,9 @@ git clone https://github.com/ZabihullahNooriWardak/Decode-a-morse-code-message.g
 
 👤 **Asiimwe Mark**
 
--   GitHub: [Asiimwe Mark](https://github.com/As1imwe-Mark)
+- GitHub: [@As1imwe-Mark](https://github.com/As1imwe-Mark)
+- Twitter: [@markasiimwe](https://twitter.com/MarkAsiimwe?t=fPfXM4CV3OU6gKMNB1RGDA&s=09)
+- LinkedIn: [Mark Asiimwe](https://www.linkedin.com/in/mark-asiimwe-0ab0611ab)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
